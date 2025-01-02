@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+    <a href="#"><img width="46%" alt="Joel's GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=joelabreurojas&show_icons=true&count_private=true&theme=nord"></a>
+    <a href="#"><img align="right" width="49%" alt="Joel's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=joelabreurojas&theme=nord"></a>
+</div>
+
 <!--
 **j4breu/j4breu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
