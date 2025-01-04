@@ -7,7 +7,8 @@
 <br>
 
 <div align="center">
-    <a href="#"><img alt="Joel's GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=joelabreurojas&show_icons=true&count_private=true&theme=nord"></a>
+    <a href="#"><img width="46%" alt="Joel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joelabreurojas&show_icons=true&rank_icon=percentile&theme=nord"></a>
+    <a href="#"><img align="right" width="48.5%" alt="Joel's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=joelabreurojas&mode=weekly&theme=nord"></a>
 </div>
 
 <!--
