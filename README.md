@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <a href="#"><img width="45%" alt="Joel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joelabreurojas&show_icons=true&rank_icon=percentile&theme=nord"></a>
+    <a href="#"><img alt="Joel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joelabreurojas&show_icons=true&rank_icon=percentile&theme=nord"></a>
 </div>
 
 <!--
