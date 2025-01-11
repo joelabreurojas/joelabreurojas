@@ -1,6 +1,5 @@
 <div align="center">
   <h1><strong>Hello 🌍, I'm Joel.</strong></h1>
-  <p><em>22 years old student (4th year at UNEG) & Programming Analyst at Transmandu C.A.</em></p>
   <a href="https://user-badge.committers.top/venezuela/joelabreurojas" target="_blank"><img alt="Venezuela Committers Rank" src="https://user-badge.committers.top/venezuela/joelabreurojas.svg"></a>
 </div>
 
