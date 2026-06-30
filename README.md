@@ -53,7 +53,7 @@ I build tools that solve real problems — from CLI utilities to AI-powered tuto
 |---------|-------------|-------|
 | [**DBFxSQL**](https://github.com/joelabreurojas/DBFxSQL) | Bidirectional DBF ↔ SQL sync with real-time file monitoring | Python, Click, asyncio |
 | [**ProVAI**](https://github.com/joelabreurojas/ProVAI) | RAG-based intelligent tutor — thesis project | Python, LangChain, Docker |
-| [**binput**](https://github.com/joelabreurojas/input.h) | Custom `input()` replacement with type validation | C |
+| [**hinput**](https://github.com/joelabreurojas/hinput) | Custom `input()` replacement with type validation | C |
 | [**notes**](https://github.com/joelabreurojas/notes) | 50+ notes on AI, ML, software engineering | Markdown |
 | [**ssot**](https://github.com/joelabreurojas/ssot) | Single Source of Truth methodology docs | Markdown |
 | [**t3webinar**](https://github.com/joelabreurojas/t3webinar) | Next.js + Drizzle + Tailwind demo | TypeScript, Next.js |
