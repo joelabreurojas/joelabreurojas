@@ -2,7 +2,7 @@
 
 # Joel Abreu Rojas
 
-**Software Engineer · Pythonista · Linux Enjoyer**
+**AI Security Engineer — Python, RAG, GRC, Aviation ISMS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelabreurojas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelabreurojas@gmail.com)
@@ -14,9 +14,9 @@
 
 ## About Me
 
-Graduated with honors in Computer Engineering from UNEG (2019–2025). Currently **Programming Analyst at Transmandu C.A.**, building data synchronization systems, cybersecurity protocols, and database architectures.
+Graduated with honors in Computer Engineering from UNEG (2019–2025). Currently **Programming Analyst and Cybersecurity Analyst (GRC, ISMS) at Transmandu C.A.**, where I build data synchronization systems and co-designed the SICAC aviation cybersecurity framework under ICAO/INAC standards.
 
-I build tools that solve real problems — from CLI utilities to AI-powered tutors. My work focuses on **database design, automation, and scalable architecture**.
+I build tools that solve real problems — from CLI utilities to AI-powered platforms. My work focuses on **database design, automation, and scalable architecture**.
 
 **Top 5** in the national hackathon "Codesafío" (UCAB). Thesis on RAG-based intelligent tutoring systems.
 
