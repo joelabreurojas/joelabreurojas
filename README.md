@@ -2,7 +2,7 @@
 
 # Joel Abreu Rojas
 
-**AI Security Engineer — Python, RAG, GRC, Aviation ISMS**
+**Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelabreurojas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelabreurojas@gmail.com)
@@ -14,11 +14,13 @@
 
 ## About Me
 
-Graduated with honors in Computer Engineering from UNEG (2019–2025). Currently **Programming Analyst and Cybersecurity Analyst (GRC, ISMS) at Transmandu C.A.**, where I build data synchronization systems and co-designed the SICAC aviation cybersecurity framework under ICAO/INAC standards.
+UNEG graduate with honors in Computer Software Engineering.
 
-I build tools that solve real problems — from CLI utilities to AI-powered platforms. My work focuses on **database design, automation, and scalable architecture**.
+Currently **Programming Analyst and Cybersecurity Analyst (GRC/ISMS) at Transmandu C.A.**, a civil aviation operator where I built data synchronization systems and co-designed the aviation cybersecurity framework under ICAO/INAC standards.
 
-**Top 5** in the national hackathon "Codesafío" (UCAB). Thesis on RAG-based intelligent tutoring systems.
+I design and build systems that solve real problems — from CLI utilities to AI-powered platforms — with a focus on database design, automation, and scalable architecture.
+
+Lately my focus is **AI Engineering** — RAG pipelines, LLM evaluation, vector search, and agentic systems.
 
 ---
 
@@ -26,37 +28,12 @@ I build tools that solve real problems — from CLI utilities to AI-powered plat
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**DBFxSQL**](https://github.com/joelabreurojas/DBFxSQL) | Bidirectional DBF ↔ SQL sync with real-time file monitoring | Python, Click, asyncio |
-| [**ProVAI**](https://github.com/joelabreurojas/ProVAI) | RAG-based intelligent tutor — thesis project | Python, LangChain, Docker |
-| [**hinput**](https://github.com/joelabreurojas/hinput) | Custom `input()` replacement with type validation | C |
-| [**notes**](https://github.com/joelabreurojas/notes) | 50+ notes on AI, ML, software engineering | Markdown |
-| [**ssot**](https://github.com/joelabreurojas/ssot) | Single Source of Truth methodology docs | Markdown |
-| [**t3webinar**](https://github.com/joelabreurojas/t3webinar) | Next.js + Drizzle + Tailwind demo | TypeScript, Next.js |
+| | Stack |
+|---|-------|
+| **Languages** | <div align="center"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) </div> |
+| **Libraries** | <div align="center"> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) </div> |
+| **Infra** | <div align="center"> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) </div> |
+| **Databases** | <div align="center"> ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) </div> |
 
 </div>
 
